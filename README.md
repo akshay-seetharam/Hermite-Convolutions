@@ -1,3 +1,6 @@
+# Status
+We should all be reading Chapter 7 for now so we know how to approach the problem.
+
 # Hermite-Convolutions
 For solving the computational challenge in module 6 of 2021-22 Ted's Linear Alegbra class
 
