@@ -10,6 +10,8 @@ We should all be reading Chapter 7 for now so we know how to approach the proble
 - Wrote preliminary buggy code to generate Hermite Polynomials
 - Wrote some math that can be added to the repository later
 
+## Nina
+
 # Hermite-Convolutions
 For solving the computational challenge in module 6 of 2021-22 Ted's Linear Alegbra class
 
