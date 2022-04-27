@@ -4,7 +4,7 @@ We should all be reading Chapter 7 for now so we know how to approach the proble
 ## Abi
 
 ## Owen
-hi
+hi!
 
 ## Akshay
 - Finished reading Chapter 7 (message for notes!)
